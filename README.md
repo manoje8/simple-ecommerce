@@ -15,7 +15,8 @@ This is a simple full-stack ECommerce landing page built using the **MERN stack*
 1. Clone the repository and navigate to the `client` folder:
 
 ```
-git clone https://github.com/your-username/ecommerce-mern.git	cd ecommerce-mern/client
+git clone https://github.com/manoje8/simple-ecommerce.git
+cd ecommerce-mern/client
 ```
 
 2. Install the dependencies:
